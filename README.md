@@ -1,2 +1,2 @@
 # llm-human-model
-Supplmentary material for paper "Large Language Models as Zero-Shot Human Models for Human-Robot Interaction"
+We are currently cleaning up the code, example prompts and results. The supplemantary material will be released soon!
