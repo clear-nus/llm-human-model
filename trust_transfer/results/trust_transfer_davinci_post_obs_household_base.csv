@@ -1,0 +1,1441 @@
+id,test_task_descr_1,test_task_descr_2,test_task_descr_3,obs_task_descr_1,obs_task_descr_2,obs_tasks_perf_1,obs_tasks_perf_2,post_obs_task_descr,prompt,1,2,3,4,5,6,7
+0,Pick and place a plastic can,Navigate to the main room door,Pick and place an apple,Pick and place a plastic bottle,Pick and place a plastic cup,True,True,Pick and place a plastic can,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic bottle' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.1536048029195118e-07,6.119409781599031e-07,1.5130607075560177e-06,0.00045450874663975497,0.00022702373193006384,0.706148728554812,0.2915192609716584
+0,Pick and place a plastic can,Navigate to the main room door,Pick and place an apple,Pick and place a plastic bottle,Pick and place a plastic cup,True,True,Navigate to the main room door,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic bottle' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.5193424627353564e-07,7.808771482936839e-07,9.601973506674125e-07,0.001314580993827801,0.001991408702457507,0.864465303002232,0.13092165344483261
+0,Pick and place a plastic can,Navigate to the main room door,Pick and place an apple,Pick and place a plastic bottle,Pick and place a plastic cup,True,True,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic bottle' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.2288473927157174e-07,6.363545247880787e-07,8.418752439600738e-07,0.004028760574816379,0.062299511145575824,0.9110184130649841,0.02176270400019003
+1,Pick and place a lemon,Pick and place a plastic bottle,Navigate while avoiding obstacles,Pick and place a glass,Pick and place an apple,True,True,Pick and place a lemon,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and succeeds. 
+Then, the robot performs the task 'Pick and place an apple' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: {}",5.579240990606158e-08,2.609849745643043e-07,1.792095414733552e-06,3.2475324602484435e-05,1.2373542923467722e-05,0.26902926862547544,0.7285754425192955
+1,Pick and place a lemon,Pick and place a plastic bottle,Navigate while avoiding obstacles,Pick and place a glass,Pick and place an apple,True,True,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and succeeds. 
+Then, the robot performs the task 'Pick and place an apple' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",4.8917433045503996e-08,3.298961265717872e-07,3.1449486356877794e-06,1.835831412949821e-05,7.0252904387835865e-06,0.009013441642483107,0.9880252824869363
+1,Pick and place a lemon,Pick and place a plastic bottle,Navigate while avoiding obstacles,Pick and place a glass,Pick and place an apple,True,True,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and succeeds. 
+Then, the robot performs the task 'Pick and place an apple' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",4.9091594904853054e-08,4.48339983770389e-07,5.651712281762028e-06,0.00015893337002806333,3.64383414920058e-05,0.7067653242082954,0.29145341420827686
+2,Pick and place a plastic cup,Navigate to the main room door,Navigate while following a person,Navigate to the dining table,Navigate to the living room,True,True,Pick and place a plastic cup,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and succeeds. 
+Then, the robot performs the task 'Navigate to the living room' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: {}",5.489552519723443e-08,3.0576072051036104e-07,1.3783064811209247e-06,1.1429966626249572e-05,1.8013429408430355e-05,0.4272120007873624,0.5702015238635693
+2,Pick and place a plastic cup,Navigate to the main room door,Navigate while following a person,Navigate to the dining table,Navigate to the living room,True,True,Navigate to the main room door,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and succeeds. 
+Then, the robot performs the task 'Navigate to the living room' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: {}",4.7953981723143484e-08,4.191470600345965e-07,1.08843573279917e-06,1.9354842585045278e-06,6.314114125535981e-05,0.03712222248043124,0.9590099238779988
+2,Pick and place a plastic cup,Navigate to the main room door,Navigate while following a person,Navigate to the dining table,Navigate to the living room,True,True,Navigate while following a person,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and succeeds. 
+Then, the robot performs the task 'Navigate to the living room' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.230593595523949e-07,2.271425386418673e-06,4.107060467764455e-06,4.866921287195272e-06,0.02926546871898651,0.8954731958307275,0.0739319354693472
+3,Navigate while following a person,Navigate to the living room,Pick and place a lemon,Navigate while avoiding moving people,Navigate while avoiding obstacles,True,True,Navigate while following a person,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding obstacles' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: {}",8.290569391767362e-07,2.8187585512419445e-06,0.0005211274085219721,0.2226923180333767,0.7252566186476481,0.050196338158242676,0.0002800666352703833
+3,Navigate while following a person,Navigate to the living room,Pick and place a lemon,Navigate while avoiding moving people,Navigate while avoiding obstacles,True,True,Navigate to the living room,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding obstacles' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: {}",8.50141526123578e-07,1.8582451190173383e-06,2.9830774380075326e-05,0.09546467454287191,0.747397026796959,0.15523491946315454,0.0008291583564680093
+3,Navigate while following a person,Navigate to the living room,Pick and place a lemon,Navigate while avoiding moving people,Navigate while avoiding obstacles,True,True,Pick and place a lemon,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding obstacles' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.1600354418427836e-06,1.4960324312558626e-06,0.00017248539357595207,0.15970896321618125,0.7722848656994543,0.06649068608511097,0.00021838390759092472
+4,Pick and place a plastic can,Navigate to the living room,Pick and place a glass,Pick and place a plastic bottle,Pick and place a plastic cup,False,False,Pick and place a plastic can,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic bottle' and fails. 
+Then, the robot performs the task 'Pick and place a plastic cup' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.003991999682767429,0.40804006943528276,0.5814349146167859,0.003663691622049742,1.2435093022963185e-05,1.0739253261770468e-05,2.495279260405687e-07
+4,Pick and place a plastic can,Navigate to the living room,Pick and place a glass,Pick and place a plastic bottle,Pick and place a plastic cup,False,False,Navigate to the living room,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic bottle' and fails. 
+Then, the robot performs the task 'Pick and place a plastic cup' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0018198776598780746,0.3533661526497084,0.6369665605498895,0.0016165823802303015,0.0009212077289167688,0.00020950614233717816,9.638752108894018e-07
+4,Pick and place a plastic can,Navigate to the living room,Pick and place a glass,Pick and place a plastic bottle,Pick and place a plastic cup,False,False,Pick and place a glass,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic bottle' and fails. 
+Then, the robot performs the task 'Pick and place a plastic cup' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.00447164468299078,0.5269079729883006,0.46451324806719063,0.0003693303710426368,4.77358437958667e-05,3.672984199275386e-05,2.4058821892588537e-07
+5,Pick and place a lemon,Pick and place a plastic bottle,Navigate while following a person,Pick and place a glass,Pick and place an apple,False,False,Pick and place a lemon,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and fails. 
+Then, the robot performs the task 'Pick and place an apple' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.06634207285641422,0.9259092178693851,0.0002567668713799981,0.004761471594547848,0.00014046151799220583,1.7084517618516294e-06,4.617053559484494e-08
+5,Pick and place a lemon,Pick and place a plastic bottle,Navigate while following a person,Pick and place a glass,Pick and place an apple,False,False,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and fails. 
+Then, the robot performs the task 'Pick and place an apple' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0037689229801304803,0.3062946291205147,0.08835143836883017,0.5995962601587783,0.00018411812916898954,4.647792914928363e-05,9.889381946964093e-07
+5,Pick and place a lemon,Pick and place a plastic bottle,Navigate while following a person,Pick and place a glass,Pick and place an apple,False,False,Navigate while following a person,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and fails. 
+Then, the robot performs the task 'Pick and place an apple' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0007200524509974032,0.05868091692367143,0.03200628465489521,0.9000700908211926,0.007208726305127486,3.836768815050724e-06,3.053305123534977e-07
+6,Pick and place a plastic bottle,Pick and place an apple,Navigate while avoiding moving people,Pick and place a glass,Pick and place a plastic cup,True,True,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.3268763328318656e-06,2.4845649106565e-06,5.677054163275744e-05,0.0935856143642649,0.7626592498842227,0.141691276123413,0.0008313309394229968
+6,Pick and place a plastic bottle,Pick and place an apple,Navigate while avoiding moving people,Pick and place a glass,Pick and place a plastic cup,True,True,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",6.983838199502661e-07,3.7709786550240644e-06,1.2113548754703073e-05,0.0686357049041856,0.7403859830892636,0.188620371556566,0.0012817294246175162
+6,Pick and place a plastic bottle,Pick and place an apple,Navigate while avoiding moving people,Pick and place a glass,Pick and place a plastic cup,True,True,Navigate while avoiding moving people,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.32008424689146e-06,8.373044500452847e-06,2.358565192737355e-05,0.10966533059318005,0.7864402962857003,0.1019804143817978,0.0005145118350202105
+7,Navigate to the living room,Navigate while avoiding obstacles,Pick and place a plastic can,Navigate to the main room door,Navigate to the dining table,False,False,Navigate to the living room,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the main room door' and fails. 
+Then, the robot performs the task 'Navigate to the dining table' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.004466319891225645,0.24633536477931345,0.4873130009147791,0.15065791135231202,0.10715753902446105,4.7918639290526594e-05,2.2822426043836453e-06
+7,Navigate to the living room,Navigate while avoiding obstacles,Pick and place a plastic can,Navigate to the main room door,Navigate to the dining table,False,False,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the main room door' and fails. 
+Then, the robot performs the task 'Navigate to the dining table' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.015053323223048181,0.5847634339188736,0.37858714304064894,0.002744989580056442,0.012943917400276271,0.000400146271080035,2.233086162204541e-06
+7,Navigate to the living room,Navigate while avoiding obstacles,Pick and place a plastic can,Navigate to the main room door,Navigate to the dining table,False,False,Pick and place a plastic can,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the main room door' and fails. 
+Then, the robot performs the task 'Navigate to the dining table' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.00730227379909007,0.5353483084989585,0.42044899626227117,0.003940027011441432,0.02624725937911991,0.0004371314094275927,2.297989379904199e-06
+8,Navigate to the dining table,Pick and place an apple,Navigate while avoiding obstacles,Navigate while avoiding moving people,Navigate while following a person,False,False,Navigate to the dining table,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding moving people' and fails. 
+Then, the robot performs the task 'Navigate while following a person' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0008242269015519051,0.07823242307762225,0.40091750340896143,0.36956377329323326,0.14725289444077455,2.0704944944789625e-05,1.2495800788618857e-06
+8,Navigate to the dining table,Pick and place an apple,Navigate while avoiding obstacles,Navigate while avoiding moving people,Navigate while following a person,False,False,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding moving people' and fails. 
+Then, the robot performs the task 'Navigate while following a person' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0023667134883235278,0.40302745210025526,0.5820267326018332,0.0017962297394399941,0.004417748949795405,0.00016670612937287694,1.416774144312856e-06
+8,Navigate to the dining table,Pick and place an apple,Navigate while avoiding obstacles,Navigate while avoiding moving people,Navigate while following a person,False,False,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding moving people' and fails. 
+Then, the robot performs the task 'Navigate while following a person' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0026928558345151276,0.30686050983759716,0.6664143331716409,0.019441125218788456,0.0002562607697761736,1.4949734761360211e-05,4.566128319419432e-07
+9,Pick and place a plastic can,Pick and place an apple,Navigate to the dining table,Pick and place a plastic bottle,Pick and place a plastic cup,True,True,Pick and place a plastic can,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic bottle' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: {}",3.966324090389143e-08,3.794879473134179e-07,1.904795494711042e-07,6.009890675591456e-06,0.11098949741824535,0.8839867368680303,0.004422972489449931
+9,Pick and place a plastic can,Pick and place an apple,Navigate to the dining table,Pick and place a plastic bottle,Pick and place a plastic cup,True,True,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic bottle' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",7.013036288144206e-08,1.1024109542581913e-06,4.15745725643578e-07,0.0006208692783756244,0.4865723855682648,0.5104937420115285,0.0013381944486434538
+9,Pick and place a plastic can,Pick and place an apple,Navigate to the dining table,Pick and place a plastic bottle,Pick and place a plastic cup,True,True,Navigate to the dining table,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic bottle' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: {}",5.321582619341644e-08,5.304426448531114e-07,2.792205124769237e-07,2.3061868930155664e-05,0.28751133311247745,0.7096970784913298,0.001865661494562674
+10,Pick and place an apple,Navigate while avoiding obstacles,Pick and place a plastic cup,Pick and place a lemon,Pick and place a glass,True,True,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a lemon' and succeeds. 
+Then, the robot performs the task 'Pick and place a glass' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.3388789387827935e-07,1.513864356141547e-06,2.2349538028011387e-06,7.977152817134194e-06,0.02722666377502701,0.8176040958041921,0.15371061003705003
+10,Pick and place an apple,Navigate while avoiding obstacles,Pick and place a plastic cup,Pick and place a lemon,Pick and place a glass,True,True,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a lemon' and succeeds. 
+Then, the robot performs the task 'Pick and place a glass' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",2.884364651599967e-07,7.4181934557795685e-06,1.6034033516602944e-05,2.0286173750546474e-05,0.0842641897162191,0.7584392088080414,0.1552823354476109
+10,Pick and place an apple,Navigate while avoiding obstacles,Pick and place a plastic cup,Pick and place a lemon,Pick and place a glass,True,True,Pick and place a plastic cup,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a lemon' and succeeds. 
+Then, the robot performs the task 'Pick and place a glass' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.7296596429211442e-07,1.332662149672852e-06,2.2728227426743257e-06,4.865025990486901e-06,0.00019573027391450902,0.002855540890651165,0.9896137514820031
+11,Pick and place a plastic can,Navigate while avoiding obstacles,Navigate to the main room door,Navigate to the living room,Navigate to the dining table,True,True,Pick and place a plastic can,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the living room' and succeeds. 
+Then, the robot performs the task 'Navigate to the dining table' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: {}",3.773085334838468e-06,4.965626922796293e-06,0.00025635432202938957,0.15494641988262137,0.5406603587318872,0.30134496721167314,0.001550556314289201
+11,Pick and place a plastic can,Navigate while avoiding obstacles,Navigate to the main room door,Navigate to the living room,Navigate to the dining table,True,True,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the living room' and succeeds. 
+Then, the robot performs the task 'Navigate to the dining table' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.8676006982016977e-06,5.8711384449918626e-06,1.1372390796118687e-05,0.030227275498648225,0.28396891529442864,0.6755194017071848,0.009257474497256632
+11,Pick and place a plastic can,Navigate while avoiding obstacles,Navigate to the main room door,Navigate to the living room,Navigate to the dining table,True,True,Navigate to the main room door,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the living room' and succeeds. 
+Then, the robot performs the task 'Navigate to the dining table' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.6498816498301214e-06,1.8641301894767032e-06,4.769431226028345e-06,0.00105073296125921,0.0012468037529622855,0.6895709544063878,0.3062457483984924
+12,Navigate while avoiding obstacles,Pick and place an apple,Navigate to the living room,Navigate while following a person,Navigate while avoiding moving people,True,True,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",6.607799831735995e-08,8.684515835734603e-07,2.520180815062779e-07,4.834151189015794e-06,0.02801891110997152,0.9652121569937724,0.00624041245641983
+12,Navigate while avoiding obstacles,Pick and place an apple,Navigate to the living room,Navigate while following a person,Navigate while avoiding moving people,True,True,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",8.43092711441976e-08,9.825712271536537e-07,6.034799619653949e-07,0.0017433730636090361,0.19874324767243384,0.7945204133550027,0.004227558243478445
+12,Navigate while avoiding obstacles,Pick and place an apple,Navigate to the living room,Navigate while following a person,Navigate while avoiding moving people,True,True,Navigate to the living room,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: {}",9.215563540564653e-08,5.883384261141e-07,2.5913491591632575e-07,9.946408765842597e-06,0.000645497965179083,0.9178465951549831,0.0806524739291836
+13,Navigate while avoiding obstacles,Pick and place an apple,Navigate to the living room,Navigate while following a person,Navigate while avoiding moving people,True,True,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",3.847096638554738e-08,1.5758087790093253e-07,6.306240199076899e-07,4.813096105226704e-06,2.860514655059346e-06,0.06879017152424133,0.9270939686493045
+13,Navigate while avoiding obstacles,Pick and place an apple,Navigate to the living room,Navigate while following a person,Navigate while avoiding moving people,True,True,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",5.8954374839646926e-08,2.958737481887388e-07,1.4865775891613733e-06,1.0424174271366142e-05,6.332154603654347e-06,0.16074956852578268,0.8352380541271643
+13,Navigate while avoiding obstacles,Pick and place an apple,Navigate to the living room,Navigate while following a person,Navigate while avoiding moving people,True,True,Navigate to the living room,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: {}",2.9039812808640466e-07,7.823856964706167e-07,2.3867689749008658e-06,1.3543551878892812e-05,7.599911161626347e-06,0.0861928889064686,0.90157822324792
+14,Pick and place a plastic can,Pick and place a glass,Navigate to the dining table,Pick and place a plastic cup,Pick and place a plastic bottle,True,True,Pick and place a plastic can,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic bottle' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: {}",4.054537984963462e-08,1.2911956517941877e-07,3.8422942570310603e-07,1.070101557974123e-06,6.750250112922584e-06,0.537076809634845,0.4610144000142084
+14,Pick and place a plastic can,Pick and place a glass,Navigate to the dining table,Pick and place a plastic cup,Pick and place a plastic bottle,True,True,Pick and place a glass,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic bottle' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: {}",7.361522287924922e-08,6.509037858849865e-07,2.5864610670091175e-06,2.244750901369426e-06,0.0016874377918263343,0.9790658678198602,0.018387429999924355
+14,Pick and place a plastic can,Pick and place a glass,Navigate to the dining table,Pick and place a plastic cup,Pick and place a plastic bottle,True,True,Navigate to the dining table,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic bottle' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: {}",3.778086800067477e-08,1.5398325102891974e-07,4.6355815062190023e-07,1.6892312739467822e-06,2.0192304328151024e-05,0.8457046278470947,0.1529332082943312
+15,Pick and place a plastic bottle,Navigate to the living room,Pick and place a lemon,Pick and place a plastic can,Pick and place a plastic cup,False,False,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic can' and fails. 
+Then, the robot performs the task 'Pick and place a plastic cup' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.4866806453687146,0.5041246298658163,0.0001042200529941332,0.004062140205696504,0.0005129254730771031,5.591141990390392e-06,3.094278447162611e-08
+15,Pick and place a plastic bottle,Navigate to the living room,Pick and place a lemon,Pick and place a plastic can,Pick and place a plastic cup,False,False,Navigate to the living room,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic can' and fails. 
+Then, the robot performs the task 'Pick and place a plastic cup' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.30028390555035656,0.6016262943126686,0.0010200669669178978,0.07930595964599976,0.013535470429496394,8.332707763232594e-05,1.6319973796896745e-07
+15,Pick and place a plastic bottle,Navigate to the living room,Pick and place a lemon,Pick and place a plastic can,Pick and place a plastic cup,False,False,Pick and place a lemon,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic can' and fails. 
+Then, the robot performs the task 'Pick and place a plastic cup' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.9522245558613451,0.017775869277285188,0.000641012051582241,0.018827522818732345,0.002584615564180292,2.600587718266782e-05,3.8688555660933096e-08
+16,Pick and place a glass,Pick and place a plastic bottle,Navigate while following a person,Pick and place an apple,Pick and place a lemon,False,False,Pick and place a glass,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place an apple' and fails. 
+Then, the robot performs the task 'Pick and place a lemon' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.11843440689174776,0.8671728989464255,0.0004454542544231171,0.011097708870854992,0.000569150078652579,1.4981971196212538e-05,1.5187880039313448e-07
+16,Pick and place a glass,Pick and place a plastic bottle,Navigate while following a person,Pick and place an apple,Pick and place a lemon,False,False,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place an apple' and fails. 
+Then, the robot performs the task 'Pick and place a lemon' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.02674307547227251,0.74246618606165,0.03197370924381656,0.19623815123792923,0.0001614779430775557,5.9188754019910965e-05,1.7344867667462258e-06
+16,Pick and place a glass,Pick and place a plastic bottle,Navigate while following a person,Pick and place an apple,Pick and place a lemon,False,False,Navigate while following a person,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place an apple' and fails. 
+Then, the robot performs the task 'Pick and place a lemon' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.07353866916667867,0.8707321757000798,0.0020159212339451505,0.050376594833027796,0.0005195575364732326,2.0153673066601333e-05,2.442406077968296e-07
+17,Navigate while following a person,Pick and place a lemon,Pick and place a plastic cup,Pick and place an apple,Pick and place a glass,False,False,Navigate while following a person,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place an apple' and fails. 
+Then, the robot performs the task 'Pick and place a glass' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.03766835224770816,0.9335469244906792,0.0015190927459360433,0.018187669763834416,0.005547000210281445,9.424705300278163e-05,3.4799107641024767e-07
+17,Navigate while following a person,Pick and place a lemon,Pick and place a plastic cup,Pick and place an apple,Pick and place a glass,False,False,Pick and place a lemon,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place an apple' and fails. 
+Then, the robot performs the task 'Pick and place a glass' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.05616941990382647,0.9328141351854737,0.0006200279501835761,0.004285197658463961,0.0027213851009405183,5.459714314139537e-05,1.3253010629623587e-07
+17,Navigate while following a person,Pick and place a lemon,Pick and place a plastic cup,Pick and place an apple,Pick and place a glass,False,False,Pick and place a plastic cup,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place an apple' and fails. 
+Then, the robot performs the task 'Pick and place a glass' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic cup'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.018970483646983286,0.9659752753238703,0.004991538999679233,0.0018996409202739037,0.004825084651465049,0.0002531392057998028,3.3757031756317305e-07
+18,Navigate while avoiding obstacles,Navigate to the main room door,Pick and place a plastic can,Navigate to the dining table,Navigate to the living room,True,True,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and succeeds. 
+Then, the robot performs the task 'Navigate to the living room' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",6.983747410196205e-07,5.358647214985411e-06,5.554945199488044e-06,0.01745933877736489,0.3382694201432105,0.5351580260000054,0.10737778090653066
+18,Navigate while avoiding obstacles,Navigate to the main room door,Pick and place a plastic can,Navigate to the dining table,Navigate to the living room,True,True,Navigate to the main room door,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and succeeds. 
+Then, the robot performs the task 'Navigate to the living room' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: {}",4.6730345207001663e-07,1.294405553819158e-06,2.2179061119092664e-06,0.00023898016526492332,0.0006427440300489211,0.001001734781978397,0.9762006994759482
+18,Navigate while avoiding obstacles,Navigate to the main room door,Pick and place a plastic can,Navigate to the dining table,Navigate to the living room,True,True,Pick and place a plastic can,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and succeeds. 
+Then, the robot performs the task 'Navigate to the living room' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: {}",7.839481139282839e-07,3.5683972948211914e-06,9.418101772803823e-06,0.0021339426518734825,0.004708056918106032,0.001400244660680964,0.9695849360886268
+19,Navigate to the main room door,Pick and place a glass,Pick and place a plastic bottle,Pick and place a plastic can,Pick and place a plastic cup,False,False,Navigate to the main room door,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic can' and fails. 
+Then, the robot performs the task 'Pick and place a plastic cup' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: {}",9.043384220019232e-05,0.020551034472756254,0.426736095562536,0.5396435769678478,0.002534793765704867,0.0069787043684736445,8.08035298599478e-06
+19,Navigate to the main room door,Pick and place a glass,Pick and place a plastic bottle,Pick and place a plastic can,Pick and place a plastic cup,False,False,Pick and place a glass,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic can' and fails. 
+Then, the robot performs the task 'Pick and place a plastic cup' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0012939095304397574,0.28745435401306985,0.7043287059026155,0.0020989396297316867,9.19751615977738e-05,6.576787899451791e-05,3.0478049742717964e-07
+19,Navigate to the main room door,Pick and place a glass,Pick and place a plastic bottle,Pick and place a plastic can,Pick and place a plastic cup,False,False,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic can' and fails. 
+Then, the robot performs the task 'Pick and place a plastic cup' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0011417471523639236,0.2626614075527783,0.7254014886190487,0.007120167703309759,1.428977945016349e-05,4.087029673313835e-05,3.770481269325208e-07
+20,Pick and place a plastic can,Navigate while following a person,Navigate to the main room door,Navigate to the dining table,Navigate to the living room,False,False,Pick and place a plastic can,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and fails. 
+Then, the robot performs the task 'Navigate to the living room' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0002262796351213773,0.03786415851335559,0.33170027631587756,0.6258339491611193,0.0001489686018594669,0.0003168421048917707,5.909767898446181e-06
+20,Pick and place a plastic can,Navigate while following a person,Navigate to the main room door,Navigate to the dining table,Navigate to the living room,False,False,Navigate while following a person,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and fails. 
+Then, the robot performs the task 'Navigate to the living room' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.00029052948192171785,0.05422884047354122,0.3778526893627678,0.5630214230318771,0.00010293668165284702,0.0003897149435744709,6.586035393325627e-06
+20,Pick and place a plastic can,Navigate while following a person,Navigate to the main room door,Navigate to the dining table,Navigate to the living room,False,False,Navigate to the main room door,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and fails. 
+Then, the robot performs the task 'Navigate to the living room' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0004995335974377624,0.08590138729550893,0.4451393498969402,0.4639668700775352,3.0402430563543723e-05,0.0001496524428564901,6.607032142581665e-06
+21,Navigate to the dining table,Pick and place an apple,Navigate while avoiding moving people,Navigate while avoiding obstacles,Navigate while following a person,False,False,Navigate to the dining table,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding obstacles' and fails. 
+Then, the robot performs the task 'Navigate while following a person' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0004410254387238635,0.023601337377925725,0.035206156890901875,0.7007892073145641,0.14683176549560467,0.09179721679064433,6.129900743942608e-06
+21,Navigate to the dining table,Pick and place an apple,Navigate while avoiding moving people,Navigate while avoiding obstacles,Navigate while following a person,False,False,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding obstacles' and fails. 
+Then, the robot performs the task 'Navigate while following a person' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0035529323584282415,0.22336863513231325,0.1295574845754313,0.637892866872546,0.0008934823297511707,0.0019231984876410893,9.299229599498377e-06
+21,Navigate to the dining table,Pick and place an apple,Navigate while avoiding moving people,Navigate while avoiding obstacles,Navigate while following a person,False,False,Navigate while avoiding moving people,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding obstacles' and fails. 
+Then, the robot performs the task 'Navigate while following a person' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.031055868091643207,0.6399328692031722,0.016226703980431304,0.30062293715503724,0.00878943365468138,0.000960571632684312,8.941958626771991e-07
+22,Navigate to the main room door,Pick and place a plastic bottle,Navigate while avoiding obstacles,Navigate to the living room,Navigate to the dining table,False,False,Navigate to the main room door,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the living room' and fails. 
+Then, the robot performs the task 'Navigate to the dining table' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0039329806714466795,0.2042846938368917,0.41638242922401325,0.22267501551247712,0.1486981450558031,7.79019946618585e-05,2.781767613842515e-06
+22,Navigate to the main room door,Pick and place a plastic bottle,Navigate while avoiding obstacles,Navigate to the living room,Navigate to the dining table,False,False,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the living room' and fails. 
+Then, the robot performs the task 'Navigate to the dining table' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.009457747803526819,0.5320246000574866,0.43778592228286284,0.002430183038453412,0.011965180165801273,0.0004622466199003148,4.845481193545288e-06
+22,Navigate to the main room door,Pick and place a plastic bottle,Navigate while avoiding obstacles,Navigate to the living room,Navigate to the dining table,False,False,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the living room' and fails. 
+Then, the robot performs the task 'Navigate to the dining table' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.012171994485445151,0.5260800455345285,0.4279783623223139,0.007336348791280621,0.021050667692460532,0.00024123548146790782,2.3004012355608433e-06
+23,Navigate while avoiding obstacles,Navigate to the main room door,Pick and place an apple,Navigate while following a person,Navigate while avoiding moving people,True,True,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.6600480669849651e-06,2.3664585572685366e-06,0.0002244228640051724,0.029531644371454335,0.5400289660657158,0.40141498960750144,0.027582868651673132
+23,Navigate while avoiding obstacles,Navigate to the main room door,Pick and place an apple,Navigate while following a person,Navigate while avoiding moving people,True,True,Navigate to the main room door,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.0773028516667152e-06,3.759885699852227e-06,2.3058248500944765e-05,0.0003412881919244841,0.002511090896848765,0.007406050334981292,0.9700327356125364
+23,Navigate while avoiding obstacles,Navigate to the main room door,Pick and place an apple,Navigate while following a person,Navigate while avoiding moving people,True,True,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 2 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and succeeds. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",2.0051453621666225e-06,6.7454928637203576e-06,2.8348625846165464e-05,5.602346147811012e-05,0.013460376276403714,0.19882542511592888,0.782415632712793
+24,Navigate while avoiding obstacles,Navigate to the main room door,Pick and place an apple,Navigate while following a person,Navigate while avoiding moving people,False,False,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and fails. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0012095680095742158,0.3635379448404575,0.6289104319229313,0.0010996736775080627,0.0016289673378385209,1.3703723140096116e-05,3.706861830784531e-07
+24,Navigate while avoiding obstacles,Navigate to the main room door,Pick and place an apple,Navigate while following a person,Navigate while avoiding moving people,False,False,Navigate to the main room door,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and fails. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.00037848466541598436,0.0652379841953442,0.49644843395220306,0.40801234405454506,0.026173058468763548,8.729861963315733e-06,1.197560484451908e-06
+24,Navigate while avoiding obstacles,Navigate to the main room door,Pick and place an apple,Navigate while following a person,Navigate while avoiding moving people,False,False,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while following a person' and fails. 
+Then, the robot performs the task 'Navigate while avoiding moving people' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0007718641460842484,0.17525526687921097,0.7044207535921679,0.11459042840053257,0.00012306387850030475,9.6510484581717e-06,1.4080356231722563e-06
+25,Pick and place an apple,Navigate to the living room,Pick and place a plastic bottle,Pick and place a plastic cup,Pick and place a plastic can,True,True,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic can' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",5.581646161750252e-08,2.609458297540539e-07,2.0849889551869196e-06,2.5904366829892408e-05,1.1339736457659763e-05,0.050157696838976695,0.9467290015074424
+25,Pick and place an apple,Navigate to the living room,Pick and place a plastic bottle,Pick and place a plastic cup,Pick and place a plastic can,True,True,Navigate to the living room,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic can' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.0648763093470926e-07,5.964371294746134e-07,3.161835008542387e-06,2.8611151601489847e-05,2.8939619058368734e-05,0.0008543612023704407,0.992274305777928
+25,Pick and place an apple,Navigate to the living room,Pick and place a plastic bottle,Pick and place a plastic cup,Pick and place a plastic can,True,True,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic cup' and succeeds. 
+Then, the robot performs the task 'Pick and place a plastic can' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",3.841845092169246e-08,1.4145672457951453e-07,5.121634625845482e-07,3.293910820139093e-06,2.287193586559093e-06,0.0003125259663249332,0.9951560125322588
+26,Pick and place a plastic can,Pick and place a glass,Navigate while avoiding moving people,Pick and place an apple,Pick and place a lemon,True,True,Pick and place a plastic can,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place an apple' and succeeds. 
+Then, the robot performs the task 'Pick and place a lemon' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: {}",3.40229992328175e-07,2.5053477768249784e-06,1.703896279922159e-06,0.003251491385666363,0.39675482830850584,0.5848823284102048,0.01427416527151316
+26,Pick and place a plastic can,Pick and place a glass,Navigate while avoiding moving people,Pick and place an apple,Pick and place a lemon,True,True,Pick and place a glass,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place an apple' and succeeds. 
+Then, the robot performs the task 'Pick and place a lemon' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: {}",3.130469993534627e-07,3.4752887113353812e-06,1.2570887829789585e-06,6.622311412468898e-05,0.0740652068599915,0.9021459003039618,0.022785764546784274
+26,Pick and place a plastic can,Pick and place a glass,Navigate while avoiding moving people,Pick and place an apple,Pick and place a lemon,True,True,Navigate while avoiding moving people,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 3 
+Question: The robot is going to perform the task 'Pick and place a glass'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place an apple' and succeeds. 
+Then, the robot performs the task 'Pick and place a lemon' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding moving people'. I trust that the robot can perform the task successfully. 
+Answer: {}",7.52371965736787e-07,4.462314412315371e-06,3.3004359241129333e-06,0.00042057383726273965,0.08000382763622502,0.868460348062094,0.04817628458816772
+27,Pick and place a plastic bottle,Pick and place a lemon,Navigate to the dining table,Pick and place a plastic cup,Pick and place a plastic can,False,False,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic cup' and fails. 
+Then, the robot performs the task 'Pick and place a plastic can' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.00016543618940550363,0.014008976167463431,0.13533782756385415,0.8395246753366153,0.009050364009816654,8.373530929806091e-07,1.763549696596409e-07
+27,Pick and place a plastic bottle,Pick and place a lemon,Navigate to the dining table,Pick and place a plastic cup,Pick and place a plastic can,False,False,Pick and place a lemon,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic cup' and fails. 
+Then, the robot performs the task 'Pick and place a plastic can' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0002814921491827234,0.03379433817972617,0.305550595102352,0.6569381204111245,0.00021297388615119573,6.3003838364631755e-06,6.841025525046302e-07
+27,Pick and place a plastic bottle,Pick and place a lemon,Navigate to the dining table,Pick and place a plastic cup,Pick and place a plastic can,False,False,Navigate to the dining table,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a plastic cup' and fails. 
+Then, the robot performs the task 'Pick and place a plastic can' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the dining table'. I trust that the robot can perform the task successfully. 
+Answer: {}",4.199042255875674e-05,0.005388878425697223,0.07311278720203652,0.8952366788718521,0.024030750450205172,6.852705638178254e-06,1.2521531105399249e-06
+28,Navigate while following a person,Pick and place a plastic can,Navigate to the main room door,Navigate to the dining table,Navigate to the living room,True,True,Navigate while following a person,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and succeeds. 
+Then, the robot performs the task 'Navigate to the living room' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: {}",2.330336437564467e-07,3.2440273201458732e-06,6.3985509966881894e-06,1.2914472193029159e-05,0.07461139764481971,0.8499270557032116,0.07428874642762713
+28,Navigate while following a person,Pick and place a plastic can,Navigate to the main room door,Navigate to the dining table,Navigate to the living room,True,True,Pick and place a plastic can,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and succeeds. 
+Then, the robot performs the task 'Navigate to the living room' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.9000793547503624e-07,9.09585350564341e-07,2.0199576744767785e-06,7.4927850033041894e-06,4.8585374915998024e-05,0.0007442900849468372,0.9860992137274175
+28,Navigate while following a person,Pick and place a plastic can,Navigate to the main room door,Navigate to the dining table,Navigate to the living room,True,True,Navigate to the main room door,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 4 
+Question: The robot is going to perform the task 'Pick and place a plastic can'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and succeeds. 
+Then, the robot performs the task 'Navigate to the living room' and succeeds. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the main room door'. I trust that the robot can perform the task successfully. 
+Answer: {}",1.2359113719943156e-07,9.796592792198124e-07,1.862542626952939e-06,3.593140308789083e-06,3.188665417922015e-05,0.017975869568398785,0.9778016572136017
+29,Pick and place an apple,Pick and place a plastic bottle,Navigate while following a person,Pick and place a glass,Pick and place a lemon,False,False,Pick and place an apple,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and fails. 
+Then, the robot performs the task 'Pick and place a lemon' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.00013064275774832862,0.007118765168426428,0.06735399910079459,0.8873841334629717,0.036915613032967406,5.610296431421863e-06,4.967812741362494e-07
+29,Pick and place an apple,Pick and place a plastic bottle,Navigate while following a person,Pick and place a glass,Pick and place a lemon,False,False,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and fails. 
+Then, the robot performs the task 'Pick and place a lemon' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",7.028494048131978e-05,0.004262725220987668,0.05423143809721251,0.7612932097443306,0.15835323132267132,0.020366878511095674,1.6881437592236883e-06
+29,Pick and place an apple,Pick and place a plastic bottle,Navigate while following a person,Pick and place a glass,Pick and place a lemon,False,False,Navigate while following a person,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place an apple'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Pick and place a glass' and fails. 
+Then, the robot performs the task 'Pick and place a lemon' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: {}",0.0001828025407446611,0.020881848295206167,0.18775332101481096,0.7875139453958239,0.0010178979616633779,0.0004055627293792746,7.733284311534257e-07
+30,Navigate to the living room,Navigate while following a person,Pick and place a plastic bottle,Navigate to the dining table,Navigate to the main room door,False,False,Navigate to the living room,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and fails. 
+Then, the robot performs the task 'Navigate to the main room door' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: {}",9.65341235700979e-05,0.00445207054503138,0.03539578973341321,0.49253583480084684,0.4588461088386973,0.007367226253484772,1.873078919585457e-06
+30,Navigate to the living room,Navigate while following a person,Pick and place a plastic bottle,Navigate to the dining table,Navigate to the main room door,False,False,Navigate while following a person,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and fails. 
+Then, the robot performs the task 'Navigate to the main room door' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: {}",6.912604366554633e-05,0.0037373880271690248,0.046428285694451635,0.609795197495095,0.33820857094807594,7.210234427396033e-05,1.013782675226728e-06
+30,Navigate to the living room,Navigate while following a person,Pick and place a plastic bottle,Navigate to the dining table,Navigate to the main room door,False,False,Pick and place a plastic bottle,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Navigate while following a person'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate to the dining table' and fails. 
+Then, the robot performs the task 'Navigate to the main room door' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a plastic bottle'. I trust that the robot can perform the task successfully. 
+Answer: {}",5.7409371581220714e-05,0.0031839650112162462,0.03919572869440188,0.6036474159028691,0.3520574170735143,8.30599434994232e-05,1.274633336408741e-06
+31,Navigate while avoiding obstacles,Navigate to the living room,Pick and place a lemon,Navigate while avoiding moving people,Navigate while following a person,False,False,Navigate while avoiding obstacles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding moving people' and fails. 
+Then, the robot performs the task 'Navigate while following a person' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: {}",5.530191614700652e-05,0.005092045819483435,0.0601620634837155,0.9064964454275943,0.026861630126109995,1.3478617730307296e-05,6.493272565186532e-07
+31,Navigate while avoiding obstacles,Navigate to the living room,Pick and place a lemon,Navigate while avoiding moving people,Navigate while following a person,False,False,Navigate to the living room,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding moving people' and fails. 
+Then, the robot performs the task 'Navigate while following a person' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: {}",3.798937661826712e-05,0.0037117084860312853,0.04508437251270127,0.7715991728070979,0.09188302300842464,0.0862371430732045,5.796774011876949e-06
+31,Navigate while avoiding obstacles,Navigate to the living room,Pick and place a lemon,Navigate while avoiding moving people,Navigate while following a person,False,False,Pick and place a lemon,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot. The robot is a Fetch research robot which is equipped with a 7 degrees-of-freedom arm. The human is requested to rate their subjective trust in the robot to successfully perform described tasks in a studio apartment. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Navigate while avoiding obstacles'. I trust that the robot can perform the task successfully. 
+Answer: 6 
+Question: The robot is going to perform the task 'Navigate to the living room'. I trust that the robot can perform the task successfully. 
+Answer: 7 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: 5 
+Now the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigate while avoiding moving people' and fails. 
+Then, the robot performs the task 'Navigate while following a person' and fails. 
+After observing these demonstrations, the participant is again requested to indicate their trust by answering the following agreement questions via a 7-point Likert scale. 
+Question: The robot is going to perform the task 'Pick and place a lemon'. I trust that the robot can perform the task successfully. 
+Answer: {}",8.361379830482455e-05,0.015246550473110644,0.18726991632960294,0.7940772343377347,0.00028433711474748507,0.0004787844796050361,6.468366805787234e-07

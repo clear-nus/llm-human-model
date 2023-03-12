@@ -1,0 +1,931 @@
+id,test_task_descr_1,test_task_descr_2,test_task_descr_3,obs_task_descr_1,obs_task_descr_2,obs_tasks_perf_1,obs_tasks_perf_2,post_obs_task_descr,prompt,1,2,3,4,5,6,7
+0,"Parking backwards empty lot, misaligned",Navigating lane merge on a clear road,"Parking forwards cars and people around, misaligned","Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned",True,True,"Parking backwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards empty lot, misaligned' as",0.019949844107031822,0.03995002433657646,0.15295854210853577,0.48851877450942993,0.24333655834197998,0.023844650015234947,0.023552823811769485
+0,"Parking backwards empty lot, misaligned",Navigating lane merge on a clear road,"Parking forwards cars and people around, misaligned","Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned",True,True,Navigating lane merge on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating lane merge on a clear road' as",0.008170166052877903,0.01737089268863201,0.11859451234340668,0.6235224604606628,0.18984007835388184,0.021413609385490417,0.016982918605208397
+0,"Parking backwards empty lot, misaligned",Navigating lane merge on a clear road,"Parking forwards cars and people around, misaligned","Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned",True,True,"Parking forwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards cars and people around, misaligned' as",0.004770191386342049,0.006531931459903717,0.034309204667806625,0.6904377341270447,0.25393494963645935,0.0054856520146131516,0.002457674592733383
+1,"Parking backwards cars and people around, aligned","Parking backwards empty lot, misaligned",Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, misaligned","Parking forwards cars and people around, misaligned",True,True,"Parking backwards cars and people around, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 7 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, aligned' as",0.018371576443314552,0.023422520607709885,0.14991354942321777,0.15765124559402466,0.5038898587226868,0.0630924329161644,0.07328779250383377
+1,"Parking backwards cars and people around, aligned","Parking backwards empty lot, misaligned",Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, misaligned","Parking forwards cars and people around, misaligned",True,True,"Parking backwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 7 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards empty lot, misaligned' as",0.012521577998995781,0.017226334661245346,0.05074651539325714,0.18356925249099731,0.37360885739326477,0.24551399052143097,0.09974578768014908
+1,"Parking backwards cars and people around, aligned","Parking backwards empty lot, misaligned",Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, misaligned","Parking forwards cars and people around, misaligned",True,True,Navigating traffic-circle with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 7 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle with other moving vehicles' as",0.004704267717897892,0.0074219354428350925,0.048986323177814484,0.07408401370048523,0.7849342226982117,0.047196295112371445,0.02885274589061737
+2,Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned",Navigating T-junction with other moving vehicles,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,Navigating T-junction on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 2 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 1 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 1 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction on a clear road' as",0.19627316296100616,0.050863705575466156,0.294447124004364,0.24085424840450287,0.15882019698619843,0.018905838951468468,0.03128869831562042
+2,Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned",Navigating T-junction with other moving vehicles,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,"Parking backwards cars and people around, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 2 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 1 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 1 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, aligned' as",0.14681504666805267,0.3552630841732025,0.19453945755958557,0.18425294756889343,0.08205720037221909,0.014079326763749123,0.012362634763121605
+2,Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned",Navigating T-junction with other moving vehicles,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 2 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 1 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 1 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.008510617539286613,0.09650615602731705,0.21786342561244965,0.35472583770751953,0.26696014404296875,0.037387821823358536,0.01397374551743269
+3,"Parking forwards empty lot, aligned","Parking backwards cars and people around, aligned",Navigating lane merge on a clear road,"Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",False,False,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.09421698749065399,0.1146022230386734,0.6456597447395325,0.09714359045028687,0.027645587921142578,0.002909383736550808,0.006449172738939524
+3,"Parking forwards empty lot, aligned","Parking backwards cars and people around, aligned",Navigating lane merge on a clear road,"Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",False,False,"Parking backwards cars and people around, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, aligned' as",0.31260186433792114,0.3599538207054138,0.14580880105495453,0.14256255328655243,0.01765720173716545,0.003354167565703392,0.0049930764362216
+3,"Parking forwards empty lot, aligned","Parking backwards cars and people around, aligned",Navigating lane merge on a clear road,"Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",False,False,Navigating lane merge on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating lane merge on a clear road' as",0.09108243137598038,0.12343189865350723,0.7318592071533203,0.03597266227006912,0.005732416175305843,0.0006061458261683583,0.0015930235385894775
+4,"Parking forwards empty lot, aligned",Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, aligned","Parking forwards cars and people around, misaligned","Parking backwards cars and people around, misaligned",True,True,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.021634912118315697,0.01737002469599247,0.07418732345104218,0.1657305657863617,0.5279489755630493,0.06549003720283508,0.11084473133087158
+4,"Parking forwards empty lot, aligned",Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, aligned","Parking forwards cars and people around, misaligned","Parking backwards cars and people around, misaligned",True,True,Navigating traffic-circle with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle with other moving vehicles' as",0.0267155971378088,0.031010810285806656,0.07574567943811417,0.5804278254508972,0.25321057438850403,0.02208632230758667,0.005840107798576355
+4,"Parking forwards empty lot, aligned",Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, aligned","Parking forwards cars and people around, misaligned","Parking backwards cars and people around, misaligned",True,True,"Parking backwards cars and people around, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, aligned' as",0.0320904366672039,0.03138290345668793,0.12987020611763,0.20053790509700775,0.3749249279499054,0.08181771636009216,0.12976346909999847
+5,"Parking forwards cars and people around, misaligned",Navigating traffic-circle with other moving vehicles,"Parking forwards empty lot, misaligned","Parking backwards cars and people around, misaligned","Parking backwards cars and people around, aligned",False,False,"Parking forwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 2 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards cars and people around, misaligned' as",0.5347961187362671,0.08561550080776215,0.15383043885231018,0.1031004786491394,0.046120379120111465,0.011823122389614582,0.018297228962183
+5,"Parking forwards cars and people around, misaligned",Navigating traffic-circle with other moving vehicles,"Parking forwards empty lot, misaligned","Parking backwards cars and people around, misaligned","Parking backwards cars and people around, aligned",False,False,Navigating traffic-circle with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 2 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle with other moving vehicles' as",0.29121094942092896,0.199007049202919,0.3914313316345215,0.059830885380506516,0.027622949331998825,0.00464034266769886,0.014108322560787201
+5,"Parking forwards cars and people around, misaligned",Navigating traffic-circle with other moving vehicles,"Parking forwards empty lot, misaligned","Parking backwards cars and people around, misaligned","Parking backwards cars and people around, aligned",False,False,"Parking forwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 2 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, misaligned' as",0.09899330884218216,0.09401550143957138,0.12887586653232574,0.23848499357700348,0.25172871351242065,0.1183243840932846,0.05142737925052643
+6,Navigating T-junction on a clear road,Navigating T-junction with other moving vehicles,"Parking backwards empty lot, misaligned",Navigating lane merge on a clear road,Navigating traffic-circle on a clear road,False,False,Navigating T-junction on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 7 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge on a clear road' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction on a clear road' as",0.0907389298081398,0.08711717277765274,0.15208128094673157,0.25358742475509644,0.24556945264339447,0.12247265875339508,0.0265459343791008
+6,Navigating T-junction on a clear road,Navigating T-junction with other moving vehicles,"Parking backwards empty lot, misaligned",Navigating lane merge on a clear road,Navigating traffic-circle on a clear road,False,False,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 7 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge on a clear road' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.36369869112968445,0.19883011281490326,0.3240874409675598,0.04173239320516586,0.0314180850982666,0.006420495454221964,0.017296306788921356
+6,Navigating T-junction on a clear road,Navigating T-junction with other moving vehicles,"Parking backwards empty lot, misaligned",Navigating lane merge on a clear road,Navigating traffic-circle on a clear road,False,False,"Parking backwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 7 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge on a clear road' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards empty lot, misaligned' as",0.08806890994310379,0.09635619819164276,0.15471841394901276,0.3174462914466858,0.23560696840286255,0.08326420933008194,0.01314316876232624
+7,Navigating traffic-circle on a clear road,"Parking forwards cars and people around, misaligned",Navigating T-junction with other moving vehicles,Navigating lane merge with other moving vehicles,Navigating traffic-circle with other moving vehicles,False,False,Navigating traffic-circle on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 2 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 2 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle on a clear road' as",0.152003675699234,0.15495812892913818,0.2646715044975281,0.3641948997974396,0.0349109061062336,0.005295199807733297,0.01101432740688324
+7,Navigating traffic-circle on a clear road,"Parking forwards cars and people around, misaligned",Navigating T-junction with other moving vehicles,Navigating lane merge with other moving vehicles,Navigating traffic-circle with other moving vehicles,False,False,"Parking forwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 2 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 2 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards cars and people around, misaligned' as",0.4830414056777954,0.15080764889717102,0.1894068717956543,0.11829489469528198,0.02995019033551216,0.004018960054963827,0.007904942147433758
+7,Navigating traffic-circle on a clear road,"Parking forwards cars and people around, misaligned",Navigating T-junction with other moving vehicles,Navigating lane merge with other moving vehicles,Navigating traffic-circle with other moving vehicles,False,False,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 2 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 2 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.6024040579795837,0.0839502215385437,0.14171025156974792,0.09505099058151245,0.031898051500320435,0.00508646247908473,0.009664162993431091
+8,"Parking backwards empty lot, misaligned","Parking forwards cars and people around, misaligned",Navigating traffic-circle on a clear road,"Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned",True,True,"Parking backwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 4 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards empty lot, misaligned' as",0.019708001986145973,0.041789423674345016,0.1811848133802414,0.4972474277019501,0.16849550604820251,0.041529227048158646,0.03966348618268967
+8,"Parking backwards empty lot, misaligned","Parking forwards cars and people around, misaligned",Navigating traffic-circle on a clear road,"Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned",True,True,"Parking forwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 4 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards cars and people around, misaligned' as",0.005070126615464687,0.007880539633333683,0.0777524933218956,0.15819211304187775,0.7203815579414368,0.01640155166387558,0.010952180251479149
+8,"Parking backwards empty lot, misaligned","Parking forwards cars and people around, misaligned",Navigating traffic-circle on a clear road,"Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned",True,True,Navigating traffic-circle on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 4 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle on a clear road' as",0.0069663263857364655,0.009261567145586014,0.08199287205934525,0.11521501839160919,0.7570448517799377,0.01646251603960991,0.009984932839870453
+9,"Parking forwards cars and people around, misaligned",Navigating T-junction with other moving vehicles,"Parking forwards empty lot, misaligned","Parking backwards cars and people around, aligned","Parking backwards cars and people around, misaligned",True,True,"Parking forwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 4 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, aligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards cars and people around, misaligned' as",0.008378377184271812,0.018641801550984383,0.2144044041633606,0.2865287959575653,0.42319557070732117,0.023847367614507675,0.016842709854245186
+9,"Parking forwards cars and people around, misaligned",Navigating T-junction with other moving vehicles,"Parking forwards empty lot, misaligned","Parking backwards cars and people around, aligned","Parking backwards cars and people around, misaligned",True,True,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 4 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, aligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.006736322306096554,0.011211528442800045,0.11390633136034012,0.12448306381702423,0.7034698724746704,0.02292141132056713,0.01211085356771946
+9,"Parking forwards cars and people around, misaligned",Navigating T-junction with other moving vehicles,"Parking forwards empty lot, misaligned","Parking backwards cars and people around, aligned","Parking backwards cars and people around, misaligned",True,True,"Parking forwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 4 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, aligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, misaligned' as",0.010567675344645977,0.016881708055734634,0.12649983167648315,0.15316802263259888,0.6321023106575012,0.03155841678380966,0.023450199514627457
+10,"Parking backwards empty lot, misaligned","Parking forwards cars and people around, misaligned",Navigating traffic-circle on a clear road,"Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned",True,True,"Parking backwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 2 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards empty lot, misaligned' as",0.036728668957948685,0.05566061660647392,0.19359587132930756,0.42857852578163147,0.18766744434833527,0.03898932784795761,0.04518638923764229
+10,"Parking backwards empty lot, misaligned","Parking forwards cars and people around, misaligned",Navigating traffic-circle on a clear road,"Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned",True,True,"Parking forwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 2 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards cars and people around, misaligned' as",0.01728125661611557,0.014567826874554157,0.3979783356189728,0.3911350667476654,0.1648528277873993,0.005874484311789274,0.006004157941788435
+10,"Parking backwards empty lot, misaligned","Parking forwards cars and people around, misaligned",Navigating traffic-circle on a clear road,"Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned",True,True,Navigating traffic-circle on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 2 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle on a clear road' as",0.01824375055730343,0.023387128487229347,0.0769081860780716,0.6265527009963989,0.23537422716617584,0.01252447348088026,0.004630632232874632
+11,Navigating T-junction with other moving vehicles,"Parking forwards cars and people around, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.0013996686320751905,0.0020360660273581743,0.008944599889218807,0.031355854123830795,0.8287805914878845,0.0954754501581192,0.027135759592056274
+11,Navigating T-junction with other moving vehicles,"Parking forwards cars and people around, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,"Parking forwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards cars and people around, misaligned' as",0.017743036150932312,0.0228501595556736,0.07175199687480927,0.6397958397865295,0.21812717616558075,0.020214775577187538,0.004088932648301125
+11,Navigating T-junction with other moving vehicles,"Parking forwards cars and people around, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,Navigating T-junction on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction on a clear road' as",0.007236766163259745,0.005446861498057842,0.017826847732067108,0.04876906797289848,0.18741241097450256,0.09073980897665024,0.6152561902999878
+12,Navigating T-junction with other moving vehicles,"Parking forwards cars and people around, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.002075445605441928,0.0038399880286306143,0.01733182929456234,0.47357606887817383,0.45700299739837646,0.03617921099066734,0.006097607780247927
+12,Navigating T-junction with other moving vehicles,"Parking forwards cars and people around, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,"Parking forwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards cars and people around, misaligned' as",0.03879370167851448,0.0710839256644249,0.115433469414711,0.31422021985054016,0.20061413943767548,0.17127136886119843,0.07550246268510818
+12,Navigating T-junction with other moving vehicles,"Parking forwards cars and people around, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,Navigating T-junction on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction on a clear road' as",0.008115715347230434,0.006086990237236023,0.018034175038337708,0.06645425409078598,0.23048639297485352,0.11378342658281326,0.5260578989982605
+13,"Parking backwards cars and people around, misaligned",Navigating traffic-circle on a clear road,"Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",True,True,"Parking backwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, misaligned' as",0.007025130558758974,0.00731709785759449,0.037257127463817596,0.1067519262433052,0.4440222680568695,0.07553847134113312,0.2962128221988678
+13,"Parking backwards cars and people around, misaligned",Navigating traffic-circle on a clear road,"Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",True,True,Navigating traffic-circle on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle on a clear road' as",0.010600973851978779,0.023875098675489426,0.050247672945261,0.2538626194000244,0.15263564884662628,0.41183358430862427,0.09007462114095688
+13,"Parking backwards cars and people around, misaligned",Navigating traffic-circle on a clear road,"Parking forwards empty lot, aligned","Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",True,True,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.009307504631578922,0.007507411763072014,0.03191960230469704,0.10148033499717712,0.4831658601760864,0.1420460343360901,0.21139515936374664
+14,"Parking forwards empty lot, aligned",Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned","Parking backwards empty lot, misaligned","Parking forwards empty lot, misaligned",False,False,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.08011797815561295,0.07515271008014679,0.23265719413757324,0.2835868000984192,0.3047228157520294,0.005629782099276781,0.00715235248208046
+14,"Parking forwards empty lot, aligned",Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned","Parking backwards empty lot, misaligned","Parking forwards empty lot, misaligned",False,False,Navigating T-junction on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction on a clear road' as",0.07426179200410843,0.10833106935024261,0.2799099087715149,0.5134270787239075,0.010273377411067486,0.0032226997427642345,0.004595072008669376
+14,"Parking forwards empty lot, aligned",Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned","Parking backwards empty lot, misaligned","Parking forwards empty lot, misaligned",False,False,"Parking backwards cars and people around, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, aligned' as",0.19823075830936432,0.18855005502700806,0.10662857443094254,0.36449068784713745,0.10876660794019699,0.014093752019107342,0.008736612275242805
+15,"Parking backwards cars and people around, misaligned","Parking forwards empty lot, aligned",Navigating traffic-circle with other moving vehicles,"Parking forwards cars and people around, misaligned","Parking backwards cars and people around, aligned",True,True,"Parking backwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 2 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, misaligned' as",0.026277506723999977,0.0423547588288784,0.08947005122900009,0.6704748272895813,0.15328413248062134,0.008569813333451748,0.004934345837682486
+15,"Parking backwards cars and people around, misaligned","Parking forwards empty lot, aligned",Navigating traffic-circle with other moving vehicles,"Parking forwards cars and people around, misaligned","Parking backwards cars and people around, aligned",True,True,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 2 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.014534156769514084,0.022725919261574745,0.07110866904258728,0.3449205160140991,0.36316052079200745,0.11239468306303024,0.06390995532274246
+15,"Parking backwards cars and people around, misaligned","Parking forwards empty lot, aligned",Navigating traffic-circle with other moving vehicles,"Parking forwards cars and people around, misaligned","Parking backwards cars and people around, aligned",True,True,Navigating traffic-circle with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 2 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle with other moving vehicles' as",0.029698465019464493,0.021682187914848328,0.44558343291282654,0.3802822232246399,0.1108173206448555,0.005280018784105778,0.004633480217307806
+16,Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, aligned","Parking forwards empty lot, misaligned","Parking forwards cars and people around, misaligned","Parking backwards cars and people around, misaligned",False,False,Navigating traffic-circle with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards cars and people around, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle with other moving vehicles' as",0.23920580744743347,0.164735808968544,0.515854001045227,0.046567849814891815,0.015010706149041653,0.0014209543587639928,0.004427731037139893
+16,Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, aligned","Parking forwards empty lot, misaligned","Parking forwards cars and people around, misaligned","Parking backwards cars and people around, misaligned",False,False,"Parking backwards cars and people around, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards cars and people around, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, aligned' as",0.13796690106391907,0.12922781705856323,0.3036189079284668,0.3987882733345032,0.015804467722773552,0.001578587107360363,0.004461248870939016
+16,Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, aligned","Parking forwards empty lot, misaligned","Parking forwards cars and people around, misaligned","Parking backwards cars and people around, misaligned",False,False,"Parking forwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards cars and people around, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, misaligned' as",0.14266686141490936,0.13093851506710052,0.3317355513572693,0.3824087679386139,0.0031222724355757236,0.0005486132577061653,0.0015665991231799126
+17,Navigating lane merge with other moving vehicles,"Parking forwards empty lot, aligned",Navigating T-junction on a clear road,Navigating lane merge on a clear road,Navigating traffic-circle on a clear road,True,True,Navigating lane merge with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating lane merge with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge on a clear road' and succeeds. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating lane merge with other moving vehicles' as",0.0028981920331716537,0.0045877122320234776,0.03042115643620491,0.6549902558326721,0.2964184582233429,0.006007674150168896,0.002300216583535075
+17,Navigating lane merge with other moving vehicles,"Parking forwards empty lot, aligned",Navigating T-junction on a clear road,Navigating lane merge on a clear road,Navigating traffic-circle on a clear road,True,True,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating lane merge with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge on a clear road' and succeeds. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.01339678093791008,0.022858351469039917,0.08104092627763748,0.3564261496067047,0.4608420431613922,0.036199841648340225,0.023772623389959335
+17,Navigating lane merge with other moving vehicles,"Parking forwards empty lot, aligned",Navigating T-junction on a clear road,Navigating lane merge on a clear road,Navigating traffic-circle on a clear road,True,True,Navigating T-junction on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating lane merge with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge on a clear road' and succeeds. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction on a clear road' as",0.00701241847127676,0.016925740987062454,0.059801388531923294,0.3313239514827728,0.34823405742645264,0.16291989386081696,0.06427700072526932
+18,"Parking forwards empty lot, aligned",Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned","Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",False,False,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.06332288682460785,0.08697305619716644,0.27195873856544495,0.5347538590431213,0.03024984709918499,0.002400422701612115,0.0043399822898209095
+18,"Parking forwards empty lot, aligned",Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned","Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",False,False,Navigating T-junction on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction on a clear road' as",0.06954178959131241,0.0918378233909607,0.319845050573349,0.4989875853061676,0.01155258808284998,0.0008365395478904247,0.0020213208626955748
+18,"Parking forwards empty lot, aligned",Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned","Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",False,False,"Parking backwards cars and people around, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 4 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, aligned' as",0.20968946814537048,0.1621042639017105,0.4830099046230316,0.09373752772808075,0.03165106847882271,0.0026582665741443634,0.008231106214225292
+19,Navigating traffic-circle with other moving vehicles,Navigating lane merge on a clear road,"Parking backwards empty lot, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle on a clear road,False,False,Navigating traffic-circle with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating T-junction on a clear road' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle with other moving vehicles' as",0.4131413698196411,0.1800508201122284,0.3426269292831421,0.028887251392006874,0.008680546656250954,0.0011397084454074502,0.004696857184171677
+19,Navigating traffic-circle with other moving vehicles,Navigating lane merge on a clear road,"Parking backwards empty lot, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle on a clear road,False,False,Navigating lane merge on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating T-junction on a clear road' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating lane merge on a clear road' as",0.09305381774902344,0.12877704203128815,0.36719027161598206,0.39165881276130676,0.008444974198937416,0.0009265272528864443,0.002016370417550206
+19,Navigating traffic-circle with other moving vehicles,Navigating lane merge on a clear road,"Parking backwards empty lot, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle on a clear road,False,False,"Parking backwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating T-junction on a clear road' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards empty lot, misaligned' as",0.09287919849157333,0.12128467112779617,0.3138958215713501,0.45361682772636414,0.008350454270839691,0.0011376880574971437,0.0027358131483197212
+20,"Parking backwards cars and people around, misaligned",Navigating T-junction with other moving vehicles,Navigating lane merge on a clear road,Navigating lane merge with other moving vehicles,Navigating traffic-circle with other moving vehicles,False,False,"Parking backwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 5 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, misaligned' as",0.37585729360580444,0.30659615993499756,0.07387808710336685,0.15554773807525635,0.04149102047085762,0.00834340788424015,0.01086569856852293
+20,"Parking backwards cars and people around, misaligned",Navigating T-junction with other moving vehicles,Navigating lane merge on a clear road,Navigating lane merge with other moving vehicles,Navigating traffic-circle with other moving vehicles,False,False,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 5 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.1213042289018631,0.1619967222213745,0.3603784441947937,0.33228975534439087,0.007062682881951332,0.0021761960815638304,0.004236424341797829
+20,"Parking backwards cars and people around, misaligned",Navigating T-junction with other moving vehicles,Navigating lane merge on a clear road,Navigating lane merge with other moving vehicles,Navigating traffic-circle with other moving vehicles,False,False,Navigating lane merge on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 5 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating lane merge on a clear road' as",0.07468412816524506,0.06412898749113083,0.23820652067661285,0.29185178875923157,0.3064238131046295,0.00721742631867528,0.00848950631916523
+21,Navigating lane merge on a clear road,Navigating traffic-circle with other moving vehicles,"Parking forwards empty lot, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle on a clear road,False,False,Navigating lane merge on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating T-junction on a clear road' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating lane merge on a clear road' as",0.09612646698951721,0.07942686229944229,0.21853139996528625,0.30567285418510437,0.27510374784469604,0.005324027966707945,0.006147881969809532
+21,Navigating lane merge on a clear road,Navigating traffic-circle with other moving vehicles,"Parking forwards empty lot, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle on a clear road,False,False,Navigating traffic-circle with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating T-junction on a clear road' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle with other moving vehicles' as",0.5130293369293213,0.2451830357313156,0.04366453364491463,0.10830344259738922,0.0376572385430336,0.008887574076652527,0.010703865438699722
+21,Navigating lane merge on a clear road,Navigating traffic-circle with other moving vehicles,"Parking forwards empty lot, misaligned",Navigating T-junction on a clear road,Navigating traffic-circle on a clear road,False,False,"Parking forwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 3 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating T-junction on a clear road' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, misaligned' as",0.1134713739156723,0.14127059280872345,0.2677066922187805,0.43914681673049927,0.015681801363825798,0.005328001454472542,0.009087157435715199
+22,Navigating T-junction with other moving vehicles,"Parking backwards cars and people around, aligned",Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,False,False,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 2 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.5295659899711609,0.05906115844845772,0.14377552270889282,0.11957531422376633,0.06451000273227692,0.014832702465355396,0.01311835739761591
+22,Navigating T-junction with other moving vehicles,"Parking backwards cars and people around, aligned",Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,False,False,"Parking backwards cars and people around, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 2 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, aligned' as",0.13757705688476562,0.099530890583992,0.25878697633743286,0.272478848695755,0.1899813860654831,0.012956405989825726,0.016371717676520348
+22,Navigating T-junction with other moving vehicles,"Parking backwards cars and people around, aligned",Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,Navigating lane merge with other moving vehicles,False,False,Navigating T-junction on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 2 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction on a clear road' as",0.06397544592618942,0.05652666464447975,0.10723865032196045,0.2299220710992813,0.3080553710460663,0.17799298465251923,0.04032890871167183
+23,Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, misaligned",Navigating lane merge on a clear road,Navigating T-junction with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,Navigating traffic-circle with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating T-junction with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle with other moving vehicles' as",0.0023245858028531075,0.002808808349072933,0.011619077064096928,0.0335918627679348,0.7956438660621643,0.11148426681756973,0.036928001791238785
+23,Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, misaligned",Navigating lane merge on a clear road,Navigating T-junction with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,"Parking backwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating T-junction with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, misaligned' as",0.018028542399406433,0.018589667975902557,0.052938904613256454,0.6141650080680847,0.25751298666000366,0.027651464566588402,0.004539350047707558
+23,Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, misaligned",Navigating lane merge on a clear road,Navigating T-junction with other moving vehicles,Navigating lane merge with other moving vehicles,True,True,Navigating lane merge on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 4 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating T-junction with other moving vehicles' and succeeds. 
+Then, the robot performs the task 'Navigating lane merge with other moving vehicles' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating lane merge on a clear road' as",0.006203031167387962,0.004153743386268616,0.013099121861159801,0.03679795190691948,0.1315172016620636,0.05802522599697113,0.723338782787323
+24,"Parking backwards empty lot, misaligned",Navigating lane merge on a clear road,"Parking backwards cars and people around, misaligned","Parking forwards empty lot, misaligned","Parking forwards empty lot, aligned",True,True,"Parking backwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 7 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards empty lot, misaligned' as",0.007029140368103981,0.009061211720108986,0.03954828903079033,0.11496195942163467,0.46058112382888794,0.08338703960180283,0.2663152515888214
+24,"Parking backwards empty lot, misaligned",Navigating lane merge on a clear road,"Parking backwards cars and people around, misaligned","Parking forwards empty lot, misaligned","Parking forwards empty lot, aligned",True,True,Navigating lane merge on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 7 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating lane merge on a clear road' as",0.0028800885193049908,0.004176298622041941,0.01003292016685009,0.05394994094967842,0.21661610901355743,0.5592912435531616,0.13901497423648834
+24,"Parking backwards empty lot, misaligned",Navigating lane merge on a clear road,"Parking backwards cars and people around, misaligned","Parking forwards empty lot, misaligned","Parking forwards empty lot, aligned",True,True,"Parking backwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards empty lot, misaligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 7 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking forwards empty lot, aligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, misaligned' as",0.004119295161217451,0.009157787077128887,0.017310278490185738,0.10437290370464325,0.18225304782390594,0.5678009390830994,0.1070542186498642
+25,Navigating T-junction with other moving vehicles,"Parking forwards empty lot, misaligned","Parking backwards cars and people around, misaligned","Parking forwards cars and people around, misaligned","Parking backwards cars and people around, aligned",True,True,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 6 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 7 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.008291693404316902,0.006940692663192749,0.027077412232756615,0.06425075232982635,0.2479962855577469,0.10973524302244186,0.5123054385185242
+25,Navigating T-junction with other moving vehicles,"Parking forwards empty lot, misaligned","Parking backwards cars and people around, misaligned","Parking forwards cars and people around, misaligned","Parking backwards cars and people around, aligned",True,True,"Parking forwards empty lot, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 6 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 7 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, misaligned' as",0.022959593683481216,0.019404293969273567,0.04561752825975418,0.12265800684690475,0.2765175998210907,0.31786414980888367,0.17038308084011078
+25,Navigating T-junction with other moving vehicles,"Parking forwards empty lot, misaligned","Parking backwards cars and people around, misaligned","Parking forwards cars and people around, misaligned","Parking backwards cars and people around, aligned",True,True,"Parking backwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 6 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, misaligned' as 7 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, misaligned' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards cars and people around, misaligned' and succeeds. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, misaligned' as",0.007871204055845737,0.010872059501707554,0.04286009818315506,0.47942566871643066,0.3628039062023163,0.07769633084535599,0.013656319119036198
+26,"Parking backwards cars and people around, aligned","Parking forwards empty lot, aligned",Navigating lane merge on a clear road,"Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",False,False,"Parking backwards cars and people around, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 7 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, aligned' as",0.24460868537425995,0.15295088291168213,0.3642728924751282,0.08375431597232819,0.07840324938297272,0.018555205315351486,0.0327121838927269
+26,"Parking backwards cars and people around, aligned","Parking forwards empty lot, aligned",Navigating lane merge on a clear road,"Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",False,False,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 7 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.01915886625647545,0.02526082657277584,0.044632211327552795,0.13366004824638367,0.3222099840641022,0.38775160908699036,0.05806155875325203
+26,"Parking backwards cars and people around, aligned","Parking forwards empty lot, aligned",Navigating lane merge on a clear road,"Parking forwards empty lot, misaligned","Parking backwards empty lot, misaligned",False,False,Navigating lane merge on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 4 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 7 out of 7.
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking forwards empty lot, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards empty lot, misaligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating lane merge on a clear road' as",0.05489933118224144,0.05722516402602196,0.24937742948532104,0.33421602845191956,0.2897132337093353,0.003031248226761818,0.004782503936439753
+27,Navigating lane merge on a clear road,"Parking forwards empty lot, aligned",Navigating T-junction with other moving vehicles,Navigating traffic-circle on a clear road,Navigating T-junction on a clear road,True,True,Navigating lane merge on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle on a clear road' and succeeds. 
+Then, the robot performs the task 'Navigating T-junction on a clear road' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating lane merge on a clear road' as",0.00464108120650053,0.010158277116715908,0.024482931941747665,0.17863839864730835,0.15967561304569244,0.4841538369655609,0.12606598436832428
+27,Navigating lane merge on a clear road,"Parking forwards empty lot, aligned",Navigating T-junction with other moving vehicles,Navigating traffic-circle on a clear road,Navigating T-junction on a clear road,True,True,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle on a clear road' and succeeds. 
+Then, the robot performs the task 'Navigating T-junction on a clear road' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.017493797466158867,0.016564061865210533,0.05063407123088837,0.15673460066318512,0.45737674832344055,0.12643374502658844,0.16107961535453796
+27,Navigating lane merge on a clear road,"Parking forwards empty lot, aligned",Navigating T-junction with other moving vehicles,Navigating traffic-circle on a clear road,Navigating T-junction on a clear road,True,True,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating lane merge on a clear road' as 5 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 6 out of 7.
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 3 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle on a clear road' and succeeds. 
+Then, the robot performs the task 'Navigating T-junction on a clear road' and succeeds. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.0034348913468420506,0.004778006114065647,0.016520075500011444,0.5272741317749023,0.41042616963386536,0.02884647250175476,0.005662656854838133
+28,"Parking forwards cars and people around, misaligned","Parking forwards empty lot, aligned",Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, misaligned","Parking backwards cars and people around, aligned",False,False,"Parking forwards cars and people around, misaligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 6 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 7 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards cars and people around, misaligned' as",0.060023047029972076,0.059068772941827774,0.21574068069458008,0.3030824363231659,0.31509333848953247,0.01656475104391575,0.012271414510905743
+28,"Parking forwards cars and people around, misaligned","Parking forwards empty lot, aligned",Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, misaligned","Parking backwards cars and people around, aligned",False,False,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 6 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 7 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.023831617087125778,0.028986014425754547,0.06949460506439209,0.17638729512691498,0.36540576815605164,0.26946592330932617,0.053338102996349335
+28,"Parking forwards cars and people around, misaligned","Parking forwards empty lot, aligned",Navigating traffic-circle with other moving vehicles,"Parking backwards cars and people around, misaligned","Parking backwards cars and people around, aligned",False,False,Navigating traffic-circle with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Parking forwards cars and people around, misaligned' as 6 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 7 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 6 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Parking backwards cars and people around, misaligned' and fails. 
+Then, the robot performs the task 'Parking backwards cars and people around, aligned' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle with other moving vehicles' as",0.05504239723086357,0.047749195247888565,0.2589244544506073,0.30988192558288574,0.31236210465431213,0.002660107333213091,0.0034051951952278614
+29,Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,"Parking forwards empty lot, aligned",Navigating traffic-circle on a clear road,Navigating lane merge on a clear road,False,False,Navigating T-junction on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 7 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 6 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Then, the robot performs the task 'Navigating lane merge on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction on a clear road' as",0.07599349319934845,0.07352595776319504,0.13677115738391876,0.269270658493042,0.2538377046585083,0.13856241106987,0.02897396683692932
+29,Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,"Parking forwards empty lot, aligned",Navigating traffic-circle on a clear road,Navigating lane merge on a clear road,False,False,Navigating traffic-circle with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 7 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 6 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Then, the robot performs the task 'Navigating lane merge on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating traffic-circle with other moving vehicles' as",0.25213485956192017,0.0961601585149765,0.27070748805999756,0.22010861337184906,0.1368529200553894,0.0025657066144049168,0.0058150263503193855
+29,Navigating T-junction on a clear road,Navigating traffic-circle with other moving vehicles,"Parking forwards empty lot, aligned",Navigating traffic-circle on a clear road,Navigating lane merge on a clear road,False,False,"Parking forwards empty lot, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 7 out of 7.
+The participant rates their trust on the task 'Navigating traffic-circle with other moving vehicles' as 6 out of 7.
+The participant rates their trust on the task 'Parking forwards empty lot, aligned' as 7 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating traffic-circle on a clear road' and fails. 
+Then, the robot performs the task 'Navigating lane merge on a clear road' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking forwards empty lot, aligned' as",0.05774176865816116,0.05455935001373291,0.09699731320142746,0.2394726425409317,0.29317429661750793,0.19723062217235565,0.04518883675336838
+30,Navigating T-junction with other moving vehicles,Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned",Navigating lane merge with other moving vehicles,Navigating traffic-circle with other moving vehicles,False,False,Navigating T-junction with other moving vehicles,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 6 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction with other moving vehicles' as",0.12014449387788773,0.15190258622169495,0.3067588806152344,0.39530956745147705,0.006543997675180435,0.002171659842133522,0.0046098437160253525
+30,Navigating T-junction with other moving vehicles,Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned",Navigating lane merge with other moving vehicles,Navigating traffic-circle with other moving vehicles,False,False,Navigating T-junction on a clear road,"This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 6 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Navigating T-junction on a clear road' as",0.06908929347991943,0.06780673563480377,0.24182936549186707,0.3435908854007721,0.2531929910182953,0.007686934899538755,0.006776175927370787
+30,Navigating T-junction with other moving vehicles,Navigating T-junction on a clear road,"Parking backwards cars and people around, aligned",Navigating lane merge with other moving vehicles,Navigating traffic-circle with other moving vehicles,False,False,"Parking backwards cars and people around, aligned","This document contains a record of a human participant's response during their participation in a study on their trust in robots. 
+The participant is introduced to the robot, which is a autonomous vehicle in a virtual reality environment. To interact, the participant wears a virtual reality headset which provides a first-person viewpoint from the driver seat. 
+Without observing any demonstrations from the robot, the participant is requested to indicate their initial trust in the robot to perform certain tasks via a 7-point Likert scale. 
+The participant rates their trust on the task 'Navigating T-junction with other moving vehicles' as 5 out of 7.
+The participant rates their trust on the task 'Navigating T-junction on a clear road' as 6 out of 7.
+The participant rates their trust on the task 'Parking backwards cars and people around, aligned' as 5 out of 7.
+Then the participant observes the two demonstrations from the robot. 
+First, the robot performs the task 'Navigating lane merge with other moving vehicles' and fails. 
+Then, the robot performs the task 'Navigating traffic-circle with other moving vehicles' and fails. 
+Given these demonstrations and the initial trust, now the participant will rate their trust on the task 'Parking backwards cars and people around, aligned' as",0.07942478358745575,0.10987726598978043,0.26252129673957825,0.524030327796936,0.010205351747572422,0.002156579401344061,0.004207446239888668
