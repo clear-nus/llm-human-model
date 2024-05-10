@@ -1,5 +1,3 @@
-import pandas as pd
-import utils
 import numpy as np
 from sklearn.metrics import accuracy_score
 

@@ -8,7 +8,7 @@ import torch
 import time
 import os
 
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+OPENAI_API_KEY = os.getenv('OPENAI_KEY')
 
 
 def tokenize_answer_choices(answer_choices, t5_tokenizer: T5Tokenizer):
@@ -104,6 +104,7 @@ def get_probs_davinci(template, answer_choices, api_key=OPENAI_API_KEY, wait_tim
 
 def generate_completion_davinci(prompt, api_key=OPENAI_API_KEY, temperature=0, wait_time=5):
     # Get a free-form completion
+    print(api_key)
     openai.api_key = api_key
     response = None
     while response is None:
